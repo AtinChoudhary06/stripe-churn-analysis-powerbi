@@ -138,5 +138,5 @@ stripe-churn-analysis-powerbi/
 
 ## 🙋 Author
 
-**Your Name**
- [GitHub]()
+**Atin Choudhary**
+ [GitHub](https://github.com/AtinChoudhary06)
