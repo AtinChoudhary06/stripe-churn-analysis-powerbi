@@ -135,15 +135,8 @@ stripe-churn-analysis-powerbi/
 - **Stripe** — Payment data source
 - **CSV** — Data preparation and cleaning
 
----
-
-## 📄 License
-
-This project is for educational and portfolio purposes. The dataset has been anonymized for public sharing.
-
----
 
 ## 🙋 Author
 
 **Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+ [GitHub]()
